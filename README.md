@@ -37,6 +37,16 @@ This is a Book Shop & fully functional-Ecommerce Site.
 ![ScreenShot of Form](screenshots/j.png)
 ##### User Information
 ![ScreenShot of Form](screenshots/k.png)
+##### User Information
+![ScreenShot of Form](screenshots/l.png)
+##### User Information
+![ScreenShot of Form](screenshots/m.png)
+##### User Information
+![ScreenShot of Form](screenshots/n.png)
+##### User Information
+![ScreenShot of Form](screenshots/o.png)
+##### User Information
+![ScreenShot of Form](screenshots/p.png)
 
 
 
