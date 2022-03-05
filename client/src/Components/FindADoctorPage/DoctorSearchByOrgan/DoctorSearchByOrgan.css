@@ -1,0 +1,17 @@
+.organ-image{
+    height : 120px;
+    width : 120px;
+    border-radius : 50%;
+    /* overflow : hidden; */
+
+}
+
+
+
+
+.organ-image:hover{
+    background-color : #0000004a;
+    cursor : pointer;
+}
+
+

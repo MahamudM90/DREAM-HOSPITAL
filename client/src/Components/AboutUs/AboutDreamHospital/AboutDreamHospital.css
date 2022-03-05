@@ -1,0 +1,26 @@
+.about-us:after {
+    background: #1b1b1a;
+    content: '';
+    display: block;
+    left: 50%;
+    height: 4px;
+    margin-top: 20px;
+    /* margin-bottom: 50px; */
+    position: absolute;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    width: 200px;
+}
+.about-headline:after {
+    background: #b8b816;
+    content: '';
+    display: block;
+    left: 18%;
+    height: 4px;
+    margin-top: 20px;
+    /* margin-bottom: 50px; */
+    position: absolute;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    width: 150px;
+}

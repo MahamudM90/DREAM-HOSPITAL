@@ -1,0 +1,13 @@
+input[type="text"], input[type="email"], input[ type="password"], textarea{
+    border : none;
+    border-bottom: 2px solid gray;
+    background-color: #E8F0FE;
+ 
+}
+
+.log-in{
+    background-image : url('https://www.itl.cat/pngfile/big/143-1438193_hospital-management-software.jpg');  
+    background-size: cover;
+    background-position: center center;
+    
+}
