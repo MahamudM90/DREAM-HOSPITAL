@@ -20,7 +20,7 @@ Dream-Hospital By Using this Site patient will get better treatment with special
 
 
 
-##### Special
+##### Specialty
 ![ScreenShot of Form](screenshots/d.png)
 
 ##### Payment
