@@ -49,7 +49,7 @@ Dream-Hospital By Using this Site patient will get better treatment with special
 
 
 
-##### Dantel Unit
+##### Dental Unit
 ![ScreenShot of Form](screenshots/h.png)
 
 
