@@ -32,10 +32,17 @@ Dream-Hospital By Using this Site patient will get better treatment with special
 ##### Dailysis Unit
 ![ScreenShot of Form](screenshots/e.png)
 
-##### Place Order
+
+
+
+
+##### ICU
 ![ScreenShot of Form](screenshots/f.png)
 
-##### Order Summary
+
+
+
+##### Out
 ![ScreenShot of Form](screenshots/g.png)
 
 ##### User Profile Update
