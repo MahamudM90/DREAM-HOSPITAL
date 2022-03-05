@@ -42,8 +42,9 @@ Dream-Hospital By Using this Site patient will get better treatment with special
 
 
 
-##### Out
+##### Indoor & Outdoor
 ![ScreenShot of Form](screenshots/g.png)
+
 
 ##### User Profile Update
 ![ScreenShot of Form](screenshots/h.png)
