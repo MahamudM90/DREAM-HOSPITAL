@@ -54,36 +54,87 @@ Dream-Hospital By Using this Site patient will get better treatment with special
 
 
 
-##### Admin Dashboard
+##### Vaccination 
 ![ScreenShot of Form](screenshots/i.png)
-##### Product Update
+
+
+
+##### Skin Care
 ![ScreenShot of Form](screenshots/j.png)
-##### User Information
+
+
+
+
+##### Pharmacy
 ![ScreenShot of Form](screenshots/k.png)
-##### User Information
+
+
+
+##### Ambulance
 ![ScreenShot of Form](screenshots/l.png)
-##### User Information
+
+
+
+
+
+##### Consultation Unit
 ![ScreenShot of Form](screenshots/m.png)
-##### User Information
+
+
+
+
+##### Female Unit
 ![ScreenShot of Form](screenshots/n.png)
-##### User Information
+
+
+
+
+##### HBO Unit
 ![ScreenShot of Form](screenshots/o.png)
-##### User Information
+
+
+
+
+##### Specialist Doctors List
 ![ScreenShot of Form](screenshots/p.png)
-##### User Information
+
+
+
+##### Specialist Doctors List 2nd Page
 ![ScreenShot of Form](screenshots/q.png)
+
+
+
+
 ##### User Information
 ![ScreenShot of Form](screenshots/r.png)
-##### User Information
+
+
+
+
+##### Footer
 ![ScreenShot of Form](screenshots/s.png)
-##### User Information
+
+
+
+##### Mission & Vision
 ![ScreenShot of Form](screenshots/t.png)
-##### User Information
+
+
+##### Contact
 ![ScreenShot of Form](screenshots/w.png)
-##### User Information
+
+
+
+##### Inquiry
 ![ScreenShot of Form](screenshots/x.png)
-##### User Information
+
+
+
+##### Organ & Static Search
 ![ScreenShot of Form](screenshots/y.png)
+
+
 ##### User Information
 ![ScreenShot of Form](screenshots/z.png)
 ##### HomePage
