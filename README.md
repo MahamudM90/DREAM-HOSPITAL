@@ -1,6 +1,6 @@
 ## DREAM-HOSPITAL 🏥
 
-This is a Book Shop & fully functional-Ecommerce Site. 🚑🩺
+Dream-Hospital By Using this Site patient will get better treatment with specialized health science & auxiliary healthcare staff and medical equipment🚑🩺
 
 
 
