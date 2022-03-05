@@ -11,10 +11,10 @@ This is a Book Shop & fully functional-Ecommerce Site.
 ![ScreenShot of Form](screenshots/b.png)
 
 ##### CartPage
-![ScreenShot of Form](screenshors/c.png)
+![ScreenShot of Form](screenshots/c.png)
 
 ##### Shipping 
-![ScreenShot of Form](screenshorts/d.png)
+![ScreenShot of Form](screenshots/d.png)
 
 ##### Payment
 ![ScreenShot of Form](screenshots/e.png)
