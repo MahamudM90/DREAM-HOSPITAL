@@ -8,9 +8,12 @@ Dream-Hospital By Using this Site patient will get better treatment with special
 ![ScreenShot of Form](screenshots/a.png)
 
 
+
    
 ##### Find Option
 ![ScreenShot of Form](screenshots/b.png)
+
+
 
 
 
@@ -23,7 +26,10 @@ Dream-Hospital By Using this Site patient will get better treatment with special
 ##### Specialty
 ![ScreenShot of Form](screenshots/d.png)
 
-##### Payment
+
+
+
+##### Dailysis Unit
 ![ScreenShot of Form](screenshots/e.png)
 
 ##### Place Order
